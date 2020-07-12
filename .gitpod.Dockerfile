@@ -1,4 +1,5 @@
-FROM gitpod/workspace-full
+FROM marcopeg/gitpod-workspace-postgres:2.5.0
+
 
 
 
